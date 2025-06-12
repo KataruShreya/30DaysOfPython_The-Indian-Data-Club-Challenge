@@ -20,7 +20,7 @@ for num in fibonacci(n):
 
 2. Inside the function:
    - We initialize two variables: a = 0 and b = 1, which represent the first two Fibonacci numbers.
-   - We then run a for loop for "n" iterations using "for _ in range(n):".
+   - We then run a for loop for "n" iterations using "for i in range(n):".
 
 3. In each iteration:
    - We use "yield a" to output the current value of 'a' to the caller.
