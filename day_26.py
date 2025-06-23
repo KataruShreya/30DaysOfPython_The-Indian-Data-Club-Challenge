@@ -25,7 +25,7 @@ class BookUpdate(BaseModel):
 
 
 all_books = [
-    Book(book_id=1, title="Harry Potter and the Philospher's Stone", year=1997, author="J.K Rowling"),
+    Book(book_id=1, title="Harry Potter and the Philosopher's Stone", year=1997, author="J.K Rowling"),
     Book(book_id=2, title="Harry Potter and the Goblet of Fire", year=2000, author="J.K Rowling")
 ]
 
@@ -59,7 +59,7 @@ def create_book(book: BookCreate):
     return new_book
 
 
-@api.put('/books/{book_id}', response_model=Book)
+@api.patch('/books/{book_id}', response_model=Book)
 def update_book(book_id: int, updated_book: BookUpdate):
     for book in all_books:
         if book.book_id == book_id:
@@ -120,7 +120,7 @@ def delete_book(book_id :int):
    - Appends the new book to all_books.
    - Returns the created book.
 
-8. We define the endpoint /books/{book_id} (PUT):
+8. We define the endpoint /books/{book_id} (PATCH):
    - Accepts updates using the BookUpdate model.
    - Searches for the book by ID and updates any fields provided.
    - Returns the updated book or raises 404 if not found.
