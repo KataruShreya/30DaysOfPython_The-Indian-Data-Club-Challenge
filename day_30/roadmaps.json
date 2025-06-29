@@ -1,0 +1,21 @@
+{
+  "Data Analyst": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Master advanced Excel functions and pivot tables.\n- Practice writing SQL queries for data extraction and aggregation.\n\nMonth 2:\n- Build interactive dashboards in Power BI.\n- Complete a data cleaning project using Python (pandas).\n\nMonth 3:\n- Work on a case study combining Excel, SQL, and Power BI.\n- Prepare a presentation to showcase your analysis.",
+  
+  "Data Scientist": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Study supervised and unsupervised algorithms with scikit-learn.\n- Review core statistics: probability, regression, distributions.\n\nMonth 2:\n- Build a machine learning model using scikit-learn.\n- Learn neural networks basics and experiment with simple deep learning.\n\nMonth 3:\n- Complete an end-to-end data science project.\n- Document your workflow and prepare to present your findings.",
+
+  "Data Engineer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Study ETL pipeline concepts.\n- Practice writing SQL queries for warehousing.\n\nMonth 2:\n- Learn Apache Spark for big data processing.\n- Work on a mini ETL project.\n\nMonth 3:\n- Explore cloud tools like BigQuery or S3.\n- Document and present a pipeline you built.",
+
+  "Machine Learning Engineer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Strengthen Python fundamentals and ML workflows.\n- Study supervised models in depth.\n\nMonth 2:\n- Implement DL models using TensorFlow/PyTorch.\n- Start working with real datasets.\n\nMonth 3:\n- Deploy models using Flask/FastAPI.\n- Dockerize and document your project.",
+
+  "Cloud Engineer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Learn core services in AWS/GCP/Azure.\n- Practice IAM and compute services.\n\nMonth 2:\n- Work with Docker for packaging.\n- Study Linux commands and shell scripting.\n\nMonth 3:\n- Build and deploy a CI/CD pipeline.\n- Monitor and document your cloud project.",
+
+  "Backend Developer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Review Python/Node.js backend fundamentals.\n- Build basic CRUD APIs.\n\nMonth 2:\n- Learn Django or Express in-depth.\n- Add authentication to your apps.\n\nMonth 3:\n- Deploy your app and connect to databases.\n- Document your API architecture.",
+
+  "Frontend Developer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Brush up on HTML/CSS and JavaScript.\n- Build a responsive static website.\n\nMonth 2:\n- Learn React or Angular basics.\n- Manage state with Redux or Context.\n\nMonth 3:\n- Add testing using Jest/RTL.\n- Document and showcase your UI/UX decisions.",
+
+  "Cybersecurity Analyst": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Understand network protocols.\n- Explore tools like Wireshark and Nmap.\n\nMonth 2:\n- Learn Linux hardening techniques.\n- Automate log analysis using Python.\n\nMonth 3:\n- Work with SIEM tools.\n- Create a threat detection case study.",
+
+  "UI/UX Designer": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Learn Figma or Adobe XD.\n- Create wireframes and prototypes.\n\nMonth 2:\n- Apply design systems to your work.\n- Conduct user testing sessions.\n\nMonth 3:\n- Focus on accessibility and microcopy.\n- Showcase 2-3 final mockups in a portfolio.",
+
+  "Product Manager": "3-Month Roadmap:\n---------------------\nMonth 1:\n- Understand Agile and Scrum ceremonies.\n- Use tools like Jira or Trello.\n\nMonth 2:\n- Practice creating wireframes and user stories.\n- Learn stakeholder communication techniques.\n\nMonth 3:\n- Use GA or Mixpanel for user analysis.\n- Plan and present a roadmap with priorities."
+}
